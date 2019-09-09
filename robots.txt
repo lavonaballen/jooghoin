@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://deepheixia.chazgugino.com/sitemap.xml
